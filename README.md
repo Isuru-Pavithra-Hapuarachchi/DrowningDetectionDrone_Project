@@ -1,0 +1,2 @@
+# DrowningDetectionDrone
+ In order to increase safety in large pool areas and open waterways, this project intends  to develop and implement a drone-based drowning detection system. The technology  uses a DJI Tello drone that has been fitted with an object identification algorithm called  YOLOv5 to autonomously scan aquatic areas and detect possible drowning accidents in  real time. Core features include autonomous drone navigation, live video analysis, and  automatic alerts to lifeguards through the Telegram API.
