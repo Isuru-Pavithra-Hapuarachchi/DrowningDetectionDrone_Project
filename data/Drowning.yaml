@@ -1,0 +1,8 @@
+path: C:\Project\Project\data\ 
+train: images\train 
+val:  images\train 
+
+
+# Classes
+names:
+  0: Drowning 

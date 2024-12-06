@@ -1,0 +1,12 @@
+6096750fcc85ee9c45896e81d93d80fd5e33dd2c		branch 'master' of https://github.com/ultralytics/yolov5
+95dcab3c51b9d95308e52f088ece592b65ad6912	not-for-merge	branch 'add/weights_dir' of https://github.com/ultralytics/yolov5
+07063158dcfab47940bb1cb8a9e8323ff5d644a0	not-for-merge	branch 'exp/scaleFill' of https://github.com/ultralytics/yolov5
+d1ca2673e815de7c2a8d06f75644bd6d49187bb7	not-for-merge	branch 'exp12' of https://github.com/ultralytics/yolov5
+fe5d7f0bd8a92109a010bebcfc3935f2cd83bea6	not-for-merge	branch 'exp13' of https://github.com/ultralytics/yolov5
+a3633d7ffe1312f380c47c4cd5f2bebd59f1c589	not-for-merge	branch 'exp13-nosoft' of https://github.com/ultralytics/yolov5
+343134f768d1718e52f13406cbcfeb4ee7488f6a	not-for-merge	branch 'exp13-soft' of https://github.com/ultralytics/yolov5
+7f88e6a7b5285972a6223d2e2ac19dc62b90dfae	not-for-merge	branch 'refactor-20240717220233' of https://github.com/ultralytics/yolov5
+60e6903adec3ec7e510fd69394ef6be05f8202a4	not-for-merge	branch 'snyk-fix-19a9bd869ca677b68dcdaf5f4affcd24' of https://github.com/ultralytics/yolov5
+450b58a128d3d1fcfd2847143b1c7affcf7a462a	not-for-merge	branch 'snyk-fix-f5bfc0187c0599da5db2839fa7a5f8f5' of https://github.com/ultralytics/yolov5
+f4fcb232eeed91a97e86acb6478913129214a77f	not-for-merge	branch 'study_activations' of https://github.com/ultralytics/yolov5
+9d8cb69286ee71f7ec1fd06f5a86bad78aeb71b2	not-for-merge	branch 'update/cls-album' of https://github.com/ultralytics/yolov5

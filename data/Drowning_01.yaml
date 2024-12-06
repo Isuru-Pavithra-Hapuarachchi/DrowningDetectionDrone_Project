@@ -1,0 +1,10 @@
+path: C:\Project\Project\data
+train: images\train
+val: images\val
+
+# Classes
+nc: 3  # number of classes
+names:
+  0: Swimming
+  1: tread_water
+  2: drowning 

@@ -1,0 +1,10 @@
+path: C:\Project\Project\data\
+train: images\train
+val: images\val
+test: images\test  # Add this line to specify the test dataset path
+
+# Classes
+names:
+  0: Drowning
+
+
